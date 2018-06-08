@@ -1,0 +1,39 @@
+			body {
+				margin: 0;
+				padding: 0 auto;
+				background: #000;
+			}
+			
+			#stage {
+				margin: 16px auto;
+				width: 640px;
+			}
+			
+			header a {
+				color: #7f7f7f;
+				margin: 6px;
+				cursor: pointer;
+			}
+			
+			#progress {
+				color: #7fb77f;
+			}
+			
+			#div_loading {
+				width: 86%;
+				margin: 0 auto;
+				text-align: center;
+				height: 480px;
+				position: relative;
+			}
+			
+			#div_loading img {
+				overflow: auto;
+				margin: auto;
+				position: absolute;
+				top: 0;
+				left: 0;
+				bottom: 0;
+				right: 0;
+				vertical-align: middle;
+			}
